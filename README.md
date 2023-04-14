@@ -1,0 +1,3 @@
+# count-entries
+
+it is my very first project that counts and stores the value of the passengers entring into a station....
